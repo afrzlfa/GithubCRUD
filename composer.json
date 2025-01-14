@@ -1,0 +1,18 @@
+{
+    "name": "icwr-team/github-crud",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IcwrTeam\\GithubCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "afrzlfa",
+            "email": "afrzlf4@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
