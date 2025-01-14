@@ -7,7 +7,7 @@ A simple PHP library for managing GitHub repository files using the GitHub API.
 Install the library using Composer:
 
 ```bash
-composer require afrzlfa/GithubCRUD
+composer require afrzlfa/githubcrud
 ```
 
 ## Usage
