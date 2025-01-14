@@ -2,7 +2,7 @@
 
 require 'vendor/autoload.php';
 
-use GithubCRUD\GithubCRUD;
+use afrzlfa\GithubCRUD;
 
 $config = [
     'token' => 'YOUR_GITHUB_TOKEN',
