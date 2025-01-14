@@ -7,7 +7,7 @@ A simple PHP library for managing GitHub repository files using the GitHub API.
 Install the library using Composer:
 
 ```bash
-composer require icwr-team/github-crud
+composer require afrzlfa/GithubCRUD
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ Here's an example of how to use the library:
 ```php
 require 'vendor/autoload.php';
 
-use GithubCRUD\GithubCRUD;
+use afrzlfa\GithubCRUD;
 
 $config = [
     'token' => 'YOUR_GITHUB_TOKEN',
