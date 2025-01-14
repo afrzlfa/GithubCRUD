@@ -26,7 +26,7 @@ $config = [
     'branch' => 'main' // or any branch name
 ];
 
-$github = new GithubCRUD($config);
+$github = new Githubcrud($config);
 
 // Create a file
 $github->createFile('example.txt', 'Hello, World!');
