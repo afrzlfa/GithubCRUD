@@ -1,10 +1,10 @@
 {
-    "name": "icwr-team/github-crud",
+    "name": "afrzlfa/github-crud",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "IcwrTeam\\GithubCrud\\": "src/"
+            "afrzlfa\\GithubCrud\\": "src/"
         }
     },
     "authors": [
