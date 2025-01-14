@@ -1,6 +1,6 @@
 <?php
 
-namespace icwr-team/GithubCRUD;
+namespace afrzlfa/GithubCRUD;
 
 class GithubCRUD
 {
