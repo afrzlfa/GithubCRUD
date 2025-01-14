@@ -17,7 +17,7 @@ Here's an example of how to use the library:
 ```php
 require 'vendor/autoload.php';
 
-use afrzlfa\GithubCRUD;
+use Afrzlfa\Githubcrud;
 
 $config = [
     'token' => 'YOUR_GITHUB_TOKEN',
