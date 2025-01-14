@@ -2,7 +2,7 @@
 
 require 'vendor/autoload.php';
 
-use afrzlfa\GithubCRUD;
+use Afrzlfa\Githubcrud;
 
 $config = [
     'token' => 'YOUR_GITHUB_TOKEN',
@@ -11,7 +11,7 @@ $config = [
     'branch' => 'main'
 ];
 
-$github = new GithubCRUD($config);
+$github = new Githubcrud($config);
 
 // Create a file
 $github->createFile('example.txt', 'Hello, World!');

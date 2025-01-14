@@ -1,10 +1,10 @@
 {
-    "name": "afrzlfa/github-crud",
+    "name": "afrzlfa/githubcrud",
     "type": "library",
-    "license": "MIT",
+    "license": "mit",
     "autoload": {
         "psr-4": {
-            "afrzlfa\\GithubCrud\\": "src/"
+            "Afrzlfa\\Githubcrud\\": "src/"
         }
     },
     "authors": [

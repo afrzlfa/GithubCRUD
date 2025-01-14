@@ -1,8 +1,8 @@
 <?php
 
-namespace afrzlfa/GithubCRUD;
+namespace Afrzlfa\Githubcrud;
 
-class GithubCRUD
+class Githubcrud
 {
     private $gitConfig;
 
